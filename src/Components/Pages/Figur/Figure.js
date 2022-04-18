@@ -7,7 +7,7 @@ const Figure = () => {
                 <img src="https://i.ibb.co/hLctgDy/pexels-luis-quintero-1759531.jpg" alt="" />
             </div>
             <div className="p-5 text">
-                <h2>Join Now</h2>
+                <h2>I am waiting </h2>
                 <h4>contact Number: +000 0000 0000</h4>
             </div>
         </div>
